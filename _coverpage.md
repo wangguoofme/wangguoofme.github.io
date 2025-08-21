@@ -7,4 +7,4 @@
 - 无需生成 html 文件
 - 众多主题
 
-[开始使用 Let Go](./README.md)
+[开始使用 Let Go](/README.md)
