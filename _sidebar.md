@@ -1,2 +1,3 @@
 * 使用指南
-    * [使用指南](/使用指南.md)
+    * [one](/docs/one.md)
+    * [two](/docs/one.md)
